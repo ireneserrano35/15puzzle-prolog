@@ -1,0 +1,1 @@
+This project is an university work for the discipline of Artificial Intelligence. It is a collection of algorithms to solve the 15 puzzle game, together with functions to compare them.
